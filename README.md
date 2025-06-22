@@ -4,7 +4,7 @@
 
 ```
 # Clone first
-  git clone ...
+  git clone https://github.com/mikogenerale/node-express-starter.git
 
 # cd into the project folder then run
   pnpm install
